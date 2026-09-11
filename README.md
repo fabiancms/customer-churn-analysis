@@ -5,6 +5,11 @@
 BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+
+<img width="1285" height="716" alt="image" src="https://github.com/user-attachments/assets/8d3160d1-2edf-4302-9182-9baf1934ae4b" />
+
+
+
 ## Overview
 
 This project analyzes customer churn in a telecommunications company to
